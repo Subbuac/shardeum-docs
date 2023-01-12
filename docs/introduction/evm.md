@@ -11,9 +11,9 @@ Now let’s bring the Ethereum network into the mix. With EVM in Web 3.0, open-s
 
 We now have a state machine that virtualizes servers and interfaces of thousands of applications across multiple systems with an unbelievable level of automation. So, in effect, what you see with Ethereum is not just a decentralized ledger holding data on accounts and balances but also its capability to store an entire state data of a ton of scalable applications and other web 3.0 commercial services that sits on top of it.
 
-## Shardeum is EVM Compatible
+## Shardeum is EVM-Based Chain
 
-If you are one of those Ethereum or Ethereum-based developers, please note that Shardeum is EVM compatible. You don't need to change your application codes to launch various dApps you are building on Shardeum. Any smart contract written to run in EVM can be easily ported to the Shardeum network. You just need to deploy a smart contract written in Solidity or Vyper on Shardeum with a bonus that you will never have to worry about rising gas fees again.
+If you are one of those Ethereum or EVM developers, please note that Shardeum is EVM based smart contract platform. You don't need to change your application codes to launch various dApps you are building on Shardeum. Any smart contract written to run in EVM can be easily ported to the Shardeum network. You just need to deploy a smart contract written in Solidity or Vyper on Shardeum with a bonus that you will never have to worry about rising gas fees again. And note, Solidity and Vyper are far easier to learn and write compared to other smart contract languages used by non-EVM networks. That's why we have majority of devs working on EVM based smart contract platforms today in the first place. So if you are a new developer looking to build your dApps on Shardeum, it can't get any better!   
 
 
 <iframe id="ytplayer" type="text/html"
